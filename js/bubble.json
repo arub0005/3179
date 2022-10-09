@@ -102,7 +102,7 @@
     "tooltip": [
     {"field": "Entity", "type": "nominal"},
     {"field": "Annual_CO2_emissions", "type": "quantitative", "format": ","},
-    {"field": "M_GDP", "type": "quantitative", "format": ","}
+    {"field": "M_GDP", "type": "quantitative", "format": ",",  "title": "GDP in millions"}
     ]
     }
     },
