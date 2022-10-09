@@ -46,10 +46,10 @@
     {"filter": "datum.GDP_PPP > 0"},{"filter": "datum.Population > Population_Above"},
     {
     "filter": "Continent_selection == null || datum.continent ==Continent_selection"
-    }],
+    }{"calculate": "datum.GDP_PPP/1000000", "as": "M_GDP"}],
     "encoding": {
     "x": {
-    "field": "GDP_PPP",
+    "field": "M_GDP",
     "type": "quantitative",
     "title": "GDP",
     "axis": {"tickCount": 7,"labelAngle": 90, "labelLimit": 0},
@@ -101,7 +101,7 @@
     "tooltip": [
     {"field": "Entity", "type": "nominal"},
     {"field": "Annual_CO2_emissions", "type": "quantitative", "format": ","},
-    {"field": "GDP_PPP", "type": "quantitative", "format": ","}
+    {"field": "M_GDP", "type": "quantitative", "format": ","}
     ]
     }
     },
@@ -124,7 +124,7 @@
     },
     "tooltip": [
     {"field": "Entity", "type": "nominal"},
-    {"field": "GDP_PPP", "type": "quantitative", "format": ","},
+    {"field": "M_GDP", "type": "quantitative", "format": ","},
     {"field": "Annual_CO2_emissions", "type": "quantitative", "format": ","},
     {"field": "Population", "type": "quantitative", "format": ","}
     ]
