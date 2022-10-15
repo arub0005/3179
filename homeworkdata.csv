@@ -1,0 +1,190 @@
+Country,Emissions,Code,Continent
+Afghanistan,0.3124,AFG,Asia
+Albania,1.5757,ALB,Europe
+Algeria,3.5346,DZA,Africa
+Andorra,6.035,AND,Europe
+Angola,0.6754,AGO,Africa
+Anguilla,8.2273,AIA,North America
+Antigua and Barbuda,4.3952,ATG,North America
+Argentina,3.4733,ARG,South America
+Armenia,1.9878,ARM,Asia
+Aruba,7.0548,ABW,North America
+Australia,15.3684,AUS,Oceania
+Austria,6.7324,AUT,Europe
+Azerbaijan,3.7203,AZE,Asia
+Bahamas,5.9446,BHS,North America
+Bahrain,20.5456,BHR,Asia
+Bangladesh,0.5637,BGD,Asia
+Barbados,3.7817,BRB,North America
+Belarus,6.0793,BLR,Europe
+Belgium,7.2262,BEL,Europe
+Belize,1.4657,BLZ,North America
+Benin,0.5529,BEN,Africa
+Bermuda,10.0276,BMU,North America
+Bhutan,2.4953,BTN,Asia
+Bosnia and Herzegovina,6.5282,BIH,Europe
+Botswana,2.7721,BWA,Africa
+Brazil,2.1988,BRA,South America
+British Virgin Islands,4.6053,VGB,North America
+Bulgaria,5.3888,BGR,Europe
+Burkina Faso,0.1899,BFA,Africa
+Burundi,0.0506,BDI,Africa
+Cambodia,0.9167,KHM,Asia
+Cameroon,0.2595,CMR,Africa
+Canada,14.1969,CAN,North America
+Chad,0.0555,TCD,Africa
+Chile,4.2462,CHL,South America
+China,7.4117,CHN,Asia
+Colombia,1.7512,COL,South America
+Comoros,0.2972,COM,Africa
+Congo,0.5648,COG,Africa
+Cook Islands,4.5219,COK,Oceania
+Costa Rica,1.5523,CRI,North America
+Croatia,4.1366,HRV,Europe
+Cuba,1.7792,CUB,North America
+Cyprus,5.3805,CYP,Asia
+Czechia,8.215,CZE,Europe
+Denmark,4.5224,DNK,Europe
+Djibouti,0.3557,DJI,Africa
+Dominica,1.9343,DMA,North America
+Dominican Republic,2.5599,DOM,North America
+Ecuador,1.7532,ECU,South America
+Egypt,2.0859,EGY,Africa
+El Salvador,0.9441,SLV,North America
+Equatorial Guinea,7.3167,GNQ,Africa
+Eritrea,0.2037,ERI,Africa
+Estonia,7.8795,EST,Europe
+Eswatini,0.8238,SWZ,Africa
+Ethiopia,0.1276,ETH,Africa
+Fiji,1.5544,FJI,Oceania
+Finland,7.0907,FIN,Europe
+France,4.2381,FRA,Europe
+French Guiana,2.4386,GUF,South America
+French Polynesia,2.9486,PYF,Oceania
+Gabon,1.9311,GAB,Africa
+Gambia,0.2069,GMB,Africa
+Georgia,2.4988,GEO,Asia
+Germany,7.6901,DEU,Europe
+Ghana,0.515,GHA,Africa
+Greece,5.0115,GRC,Europe
+Greenland,9.061,GRL,North America
+Grenada,2.6203,GRD,North America
+Guadeloupe,6.4027,GLP,North America
+Guatemala,1.0571,GTM,North America
+Guinea,0.2584,GIN,Africa
+Guinea-Bissau,0.1457,GNB,Africa
+Guyana,2.8131,GUY,South America
+Haiti,0.256,HTI,North America
+Honduras,0.9753,HND,North America
+Hungary,4.9973,HUN,Europe
+Iceland,8.6036,ISL,Europe
+India,1.7694,IND,Asia
+Indonesia,2.1552,IDN,Asia
+Iraq,5.2416,IRQ,Asia
+Ireland,6.7538,IRL,Europe
+Israel,6.5104,ISR,Asia
+Italy,5.0249,ITA,Europe
+Jamaica,2.509,JAM,North America
+Japan,8.1499,JPN,Asia
+Jordan,2.498,JOR,Asia
+Kazakhstan,15.5158,KAZ,Asia
+Kenya,0.3003,KEN,Africa
+Kiribati,0.5699,KIR,Oceania
+Kuwait,20.8251,KWT,Asia
+Kyrgyzstan,1.7639,KGZ,Asia
+Latvia,3.5907,LVA,Europe
+Lebanon,3.8048,LBN,Asia
+Lesotho,1.0192,LSO,Africa
+Liberia,0.1995,LBR,Africa
+Libya,7.3815,LBY,Africa
+Liechtenstein,3.6975,LIE,Europe
+Lithuania,5.0691,LTU,Europe
+Luxembourg,13.059,LUX,Europe
+Madagascar,0.1329,MDG,Africa
+Malawi,0.0729,MWI,Africa
+Malaysia,8.4226,MYS,Asia
+Maldives,3.3235,MDV,Asia
+Mali,0.1674,MLI,Africa
+Malta,3.6121,MLT,Europe
+Marshall Islands,2.5557,MHL,Oceania
+Martinique,6.258,MTQ,North America
+Mauritania,0.7263,MRT,Africa
+Mauritius,3.129,MUS,Africa
+Mayotte,1.1201,MYT,Africa
+Mexico,2.7686,MEX,North America
+Mongolia,26.978,MNG,Asia
+Montenegro,3.6778,MNE,Europe
+Montserrat,5.0646,MSR,North America
+Morocco,1.7484,MAR,Africa
+Mozambique,0.2102,MOZ,Africa
+Myanmar,0.6676,MMR,Asia
+Namibia,1.5259,NAM,Africa
+Nauru,5.2364,NRU,Oceania
+Nepal,0.582,NPL,Asia
+Netherlands,8.0596,NLD,Europe
+New Caledonia,30.4482,NCL,Oceania
+New Zealand,6.9418,NZL,Oceania
+Nicaragua,0.7659,NIC,North America
+Niger,0.0698,NER,Africa
+Nigeria,0.6086,NGA,Africa
+Niue,7.0124,NIU,Oceania
+North Macedonia,3.4302,MKD,Europe
+Norway,7.615,NOR,Europe
+Oman,12.1729,OMN,Asia
+Pakistan,1.0628,PAK,Asia
+Palau,12.1246,PLW,Oceania
+Panama,2.4983,PAN,North America
+Papua New Guinea,0.7435,PNG,Oceania
+Paraguay,1.0613,PRY,South America
+Peru,1.3559,PER,South America
+Philippines,1.2413,PHL,Asia
+Poland,7.916,POL,Europe
+Portugal,3.9609,PRT,Europe
+Qatar,37.0193,QAT,Asia
+Romania,3.7154,ROU,Europe
+Rwanda,0.0797,RWA,Africa
+Saint Helena,1.5638,SHN,Africa
+Saint Kitts and Nevis,3.9863,KNA,North America
+Saint Lucia,2.3956,LCA,North America
+Saint Pierre and Miquelon,8.7379,SPM,North America
+Saint Vincent and the Grenadines,1.8827,VCT,North America
+Samoa,1.239,WSM,Oceania
+Sao Tome and Principe,0.5144,STP,Africa
+Saudi Arabia,17.9672,SAU,Asia
+Senegal,0.6242,SEN,Africa
+Serbia,4.9369,SRB,Europe
+Seychelles,4.9936,SYC,Africa
+Sierra Leone,0.11,SLE,Africa
+Singapore,7.778,SGP,Asia
+Sint Maarten (Dutch part),14.539,SXM,North America
+Slovakia,5.6286,SVK,Europe
+Slovenia,6.043,SVN,Europe
+Solomon Islands,0.435,SLB,Oceania
+Somalia,0.0354,SOM,Africa
+South Africa,7.6204,ZAF,Africa
+Spain,4.4683,ESP,Europe
+Sri Lanka,0.9857,LKA,Asia
+Sudan,0.4301,SDN,Africa
+Suriname,3.7914,SUR,South America
+Sweden,3.8255,SWE,Europe
+Switzerland,3.7319,CHE,Europe
+Tajikistan,0.9906,TJK,Asia
+Thailand,3.6929,THA,Asia
+Togo,0.2647,TGO,Africa
+Tonga,1.3597,TON,Oceania
+Trinidad and Tobago,25.3731,TTO,North America
+Tunisia,2.3799,TUN,Africa
+Turkey,4.6573,TUR,Asia
+Turkmenistan,12.4914,TKM,Asia
+Turks and Caicos Islands,5.2313,TCA,North America
+Tuvalu,0.6415,TUV,Oceania
+Uganda,0.107,UGA,Africa
+Ukraine,4.8912,UKR,Europe
+United Arab Emirates,15.1933,ARE,Asia
+United States of America,14.2379,USA,North America
+Uruguay,1.6812,URY,South America
+Uzbekistan,3.3698,UZB,Asia
+Vanuatu,0.591,VUT,Oceania
+Yemen,0.3275,YEM,Asia
+Zambia,0.3575,ZMB,Africa
+Zimbabwe,0.7086,ZWE,Africa
